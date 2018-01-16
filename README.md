@@ -1,10 +1,8 @@
-# ProtoAdmin
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+# Admin Backoffice - Santander Esfera
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Rodar via terminal `ng serve` para habilitar o servidor local. No navegador, `http://localhost:4200/`. Automaticamente a aplicação será iniciada.
 
 ## Code scaffolding
 
